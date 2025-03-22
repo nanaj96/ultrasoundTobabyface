@@ -5,7 +5,7 @@ import io
 import base64
 
 # ComfyUI API endpoint
-COMFYUI_API_URL = "https://d0gu9c5gl5yzxr-8188.proxy.runpod.net/"  # Replace with actual URL
+COMFYUI_API_URL = "http://38.147.83.17:8188"  # Replace with actual URL
 
 st.title("Ultrasound to Baby Face AI")
 
