@@ -5,7 +5,7 @@ import io
 import base64
 
 # ✅ Correct ComfyUI API endpoint
-COMFYUI_API_URL = "http://38.147.83.17:8188/prompt"  # Replace with your correct RunPod IP
+COMFYUI_API_URL = "http://194.68.245.81:8188/prompt"  # Replace with your correct RunPod IP
 
 st.title("Ultrasound to Baby Face AI")
 
